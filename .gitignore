@@ -1,1 +1,10 @@
 .hg
+*.o
+*.o.d
+*.lst
+iambic.eep
+iambic.elf
+iambic.hex
+iambic.lss
+iambic.map
+iambic.sym
